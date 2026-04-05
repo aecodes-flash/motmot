@@ -63,7 +63,7 @@ function loop() {
 }
 
 /* ── LIVE TIMER ── */
-const START = new Date(2025, 1, 6, 22, 0, 0);
+const START = new Date(2025, 1, 6,);
 
 function updateTimer() {
   const now = new Date();
